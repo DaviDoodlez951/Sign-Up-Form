@@ -168,10 +168,10 @@ input {
     font-size: 0.9rem;
     font-weight: 300;
 }
-input:focus {
+/* input:focus {
     /* outline: #F4743E;    */
-    border: 0.2rem #262686cf solid;                
-}
+    /* border: 0.2rem #262686cf solid;                 */
+/* } */ 
 input[class="lambi"] {
     width:  18rem;
 }
